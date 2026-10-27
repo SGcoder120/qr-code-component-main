@@ -14,6 +14,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 A simple, centered card with a QR code, a heading, and a short description that links to Frontend Mentor. The goal was to match the provided design as closely as possible.
 
 ![Design preview](./preview.jpg)
+Link: https://qr-code-component-main-t19u.vercel.app/
 
 ### Built with
 
