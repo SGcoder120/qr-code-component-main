@@ -24,7 +24,7 @@ body {
 }
 
 p {
-    font-weight: 15px;
+    font-size: 15px;
 }
 
 .center {
@@ -34,8 +34,9 @@ p {
     flex-direction: column;
     background: white;
     width: 22%;
-    padding: 30px;
+    padding: 20px;
     border-radius: 15px;
+    box-sizing: border-box;
 }
 
 .center p {
